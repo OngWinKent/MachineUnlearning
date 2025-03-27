@@ -13,7 +13,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-gpu", type= bool, default= True, help= "use gpu or not")
 # Dataset
 parser.add_argument("-root", type= str, default= "./data", help= "Dataset root directory")
-parser.add_argument("-dataset", type= str, default= "Cifar100", help= "Dataset configuration",
+parser.add_argument("-dataset", type= str, help= "Dataset configuration",
                     choices=["MNist",
                              "FMNist",
                              "Cifar10",
