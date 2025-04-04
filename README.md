@@ -39,7 +39,7 @@ python train_main.py -dataset Cifar10
 **2. Unlearning**
 
 ```python
-python unlearn_main.py -gpu -dataset Cifar10 -unlearn_class 0 -unlearn_method retrain -model_path ""
+python unlearn_main.py -gpu -dataset Cifar10 -unlearn_class 0 -unlearn_method retrain -model_path 
 ```
 
 ## Feedback
