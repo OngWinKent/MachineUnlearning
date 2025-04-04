@@ -17,6 +17,7 @@ This repository contains implementations of several popular machine unlearning a
 | unsir           | [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947)                                                                           | https://github.com/vikram2000b/Fast-Machine-Unlearning|
 | ssd             | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)                                 | https://github.com/if-loops/selective-synaptic-dampening|
 
+Sincere appreciation to the authors of these popular machine unlearning algorithms for open-sourcing their code, greatly contributing to the success of this repository.
 ## Getting started
 
 ### Preparation
